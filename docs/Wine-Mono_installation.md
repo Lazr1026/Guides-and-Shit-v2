@@ -1,4 +1,4 @@
-(If you do not have wine installed already you must do so. Instructions can be found [here](https://wiki.winehq.org/Download)
+(If you do not have wine installed already you must do so. Instructions can be found [here](https://wiki.winehq.org/Download))
 
 Wine-Mono installation:
 
