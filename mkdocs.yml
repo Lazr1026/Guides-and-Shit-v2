@@ -1,5 +1,0 @@
-site_name: Guides and Shit
-nav:
-    - Home: index.md
-    - About: about.md
-    - Wine-Mono Installatoin: Wine-Mono_installation
